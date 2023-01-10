@@ -20,3 +20,6 @@ Inverted and adjusted colors in IrfanView in
   graphics/logo128x64.png
 
 Image -> Negative (invert image) -> All channels
+
+This results in an RGB color of 151,171,231 for the border of the content area. We need to use the
+same color in style.css for the outlines of the button (when it's active)
