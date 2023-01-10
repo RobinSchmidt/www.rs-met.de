@@ -1,0 +1,19 @@
+Create a private github repo with the current website
+
+-Create a new version of the website in a "new" folder - or maybe make a separate repo
+
+
+Structure:
+-Home: Welcome, self-introduction, screenshots
+-Software: ToolChain as main product, sub-modules are explained below
+-Soundware: presets, soundpacks (samples, loops), stems, demo-tracks, midi files
+-Social: links to presences on YouTube, Facebook, KVR, email (maybe github, too)
+-Resources: tutorials, papers, github code, maybe make a blog, links to KVR threads
+-About: 
+ -More detailed self-description
+ -Imprint and other legaly notices
+ -Legacy: copy of the older version of the website, maybe also braindoc.de, legacy versions
+ 
+Appearance:
+-New website should be in dark mode, maybe light mode should be optionally available
+-Screenshots should feature several color-schemes. the scope should use a nice colormap
