@@ -3,7 +3,20 @@
 2023:
 
 Inverted colors in IrfanView in:
-graphics/audioLink.png
-graphics/documentLink.png
-graphics/downloadLink.png
-graphics/externalLink.png
+
+  graphics/audioLink.png
+  graphics/documentLink.png
+  graphics/downloadLink.png
+  graphics/externalLink.png
+  
+Image -> Negative (invert image) -> All channels
+
+
+
+Inverted and adjusted colors in IrfanView in
+
+  graphics/gradient1x64.png
+  graphics/gradient128x1.png
+  graphics/logo128x64.png
+
+Image -> Negative (invert image) -> All channels
