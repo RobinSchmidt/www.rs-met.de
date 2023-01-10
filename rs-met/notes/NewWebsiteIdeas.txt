@@ -44,3 +44,6 @@ ToDo:
  https://css-tricks.com/mask-compositing-the-crash-course/
  
 -The disclaimer should go to the "Software" page - not on the main page
+
+-Logos for the "Social Media" page can be found here:
+ https://de.wikipedia.org/wiki/Datei:YouTube.png
