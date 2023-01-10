@@ -117,6 +117,27 @@ ul.naviList .current a
   overflow: hidden;
 } 
 
+/* unvisited link */
+a:link {
+  color: rgb(150, 150, 255);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(150, 80, 200);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(210, 120, 255);
+}
+
+/* selected link */
+a:active {
+  color: rgb(220, 150, 255);
+}
+
+
 /* headlines, paragraphs, lists: */
 h1
 {
