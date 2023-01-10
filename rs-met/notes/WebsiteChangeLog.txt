@@ -1,0 +1,9 @@
+
+
+2023:
+
+Inverted colors in IrfanView in:
+graphics/audioLink.png
+graphics/documentLink.png
+graphics/downloadLink.png
+graphics/externalLink.png
