@@ -13,7 +13,34 @@ Structure:
  -More detailed self-description
  -Imprint and other legaly notices
  -Legacy: copy of the older version of the website, maybe also braindoc.de, legacy versions
+-Misc
+ -Other software (not audio-related)
  
 Appearance:
 -New website should be in dark mode, maybe light mode should be optionally available
 -Screenshots should feature several color-schemes. the scope should use a nice colormap
+
+
+ToDo:
+
+-Re-organize the sub-pages:
+ -"Home"       stays as is
+ -"Products"   becomes "Software"
+ -"Freebies"   becomes "Soundware"
+ -"Support"    becomes "Social"
+ -"Tutorials"  becomes "Resources"
+ -"Company"    becomes "About"
+ -"Misc"       stays as is (but maybe with different content)
+
+-Implement a screenshot function in ToolChain and take some new screenshots of the new/updated 
+ modules. Use the new favorite color-schame (BlueishDarkGray.xml, iirc).
+-Try to create the collage on the start-page on the fly from separate screenshots, if possible, i.e.
+ we don't need a separate image file for the screenshot. I don't really know if that's possible.
+ It seems so - see:
+ https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Compositing
+ https://www.w3resource.com/html5-canvas/html5-canvas-compositing.php
+ https://zetcode.com/gfx/html5canvas/compositing/
+ https://www.sarasoueidan.com/blog/compositing-and-blending-in-css/
+ https://css-tricks.com/mask-compositing-the-crash-course/
+ 
+-The disclaimer should go to the "Software" page - not on the main page
