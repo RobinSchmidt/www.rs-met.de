@@ -31,6 +31,7 @@ ToDo:
  -"Tutorials"  becomes "Resources"
  -"Company"    becomes "About"
  -"Misc"       stays as is (but maybe with different content)
+-[done] Maybe try an even darker background like rgb(30,40, 50) instead of (40,50,60)
 
 -The "Social" page should have a link to the github presence, too.
 -Maybe the content of the "Social" page could be absorbed into the "About" page
@@ -39,7 +40,7 @@ ToDo:
 -Maybe create TikTok and Instagram accounts - there, I could publish short loops as "reels" where 
  a DAW is running a sequence in a loop, showing visualtizations (scope, analyzer, etc.) and/or use
  some WinAmp AVS / Milkdrop style visualtization.
--Maybe try an even darker background like rgb(30,40, 50) instead of (40,50,60)
+
 
 -Implement a screenshot function in ToolChain and take some new screenshots of the new/updated 
  modules. Use the new favorite color-schame (BlueishDarkGray.xml, iirc).
