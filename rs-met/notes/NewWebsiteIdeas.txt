@@ -40,6 +40,10 @@ ToDo:
 -Maybe create TikTok and Instagram accounts - there, I could publish short loops as "reels" where 
  a DAW is running a sequence in a loop, showing visualtizations (scope, analyzer, etc.) and/or use
  some WinAmp AVS / Milkdrop style visualtization.
+-Maybe rename "Soundware" into "Sounds" - then we may also increase the font-size by 1 point again.
+-Maybe have a page for demos...maybe it could include also full tracks ...but maybe a Music page
+ could also be added. But maybe the Demos could also be found on the "Sounds" page. After all, the 
+ Demos are all created using Presets, so that could make sense
 
 
 -Implement a screenshot function in ToolChain and take some new screenshots of the new/updated 
