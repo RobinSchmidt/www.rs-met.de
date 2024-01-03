@@ -1,0 +1,42 @@
+
+The history of RS and MET:
+
+In the early 2000s, I studied communication science (with focus on audio signal processing), 
+computer science (with focus on artificial intelligence / neural networks) and acoustics at the
+Technical University of Berlin. The certificate and thesis can be seen here:
+<a class="download" href="documents/certificates/MasterCertificateAndThesis.zip">here</a> (in 
+german). I was also a passionate audio technology enthusiast and played a lot with synthesizers and 
+effect algorithms and did some sound design and produced some really bad techno music. Then I 
+stumbled upon the VST-SDK by Steinberg - I think, it was version 2.1 at that time - and was 
+immediately intrigued and slid into the deep rabbit hole of vst plugin development and digital 
+signal processing. I released the plugins as freebies under the brand "braindoc" which was my 
+wannabe artist pseudonym at that time. Towards the end of my degree, it crystallized that I want to 
+get more serious about audio plugin programming and so in August 2008, I founded RS-MET as a 
+one-man-business with the goal of creating and selling audio plugins. The first commercial plugin 
+was the subtractive synthesizer Straightliner, later I added the multitap delay plugin EchoLab. The 
+sales numbers were rather underwhelming to say the least. I did not do much marketing though. I'm 
+totally not a salesperson. So I shifted towards doing some consulting and contracting in the realm
+of DSP algorithms. During the times of the corona pandemic and Russo-Ukrainian war in the early 
+2020s my mental health began to detoriate and in 2023 I wasn't really able to finish much work 
+anymore and could barely even communicate properly with clients. I was burned out. ...diagnosed in early 2024...
+and it became clear that the situation is not tenable anymore. 
+
+
+
+
+I don't want to go into too much detail, but it had to do with overstretching my own capabilities 
+and foremostly the precarious financial situation of having to live from month to month without a 
+regular income. I don't have any financial buffer, so it gets existential rather quickly.
+
+
+I agreed as a solo developer to create a full complex product for 
+
+1st: mixsonic - mini Daw, UVI
+2nd: timestretching wrappers for LuaDJ - DJ software, Vinnie Falco
+3rd: custom sample processing algorithms for SoundEmote
+4th: sinusoidal modeling framework for OrangeTree samples
+5th: sampler engine, ModeAudio
+
+
+
+
